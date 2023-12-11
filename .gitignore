@@ -164,3 +164,4 @@ cython_debug/
 **/*.fits
 **/*.fits.gz
 nbodykit/
+plots/
